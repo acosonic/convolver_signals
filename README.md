@@ -1,4 +1,4 @@
-# convolver_signals
+# Convolver Signals
 IRS Files for convolvers
 
 This is a collection of Convolution signala (IRS files) for various convolvers like
